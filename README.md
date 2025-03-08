@@ -7,7 +7,6 @@ Atualmente, estou focado no desenvolvimento de projetos que colocam em prática 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Python
 - **Frameworks e Bibliotecas:** React.js, Vue
-- **Estilização:** Styled Components, CSS3, Sass
 - **Ferramentas:** Git, GitHub, Figma, Visual Studio Code, Sublime, XCode, IntelliJ
 - **Banco de Dados:** PostgreSQL
 - **Outros:** Flexbox, Grid, UX/UI
@@ -18,11 +17,11 @@ Atualmente, estou focado no desenvolvimento de projetos que colocam em prática 
 - **Arquitetura:** Boas práticas e padrões de desenvolvimento
 
 ## 📌 Projetos em destaque
-🔹 **[Sistema Veterinário](#)** - Aplicação web desenvolvida em JavaScript para gestão de clínicas veterinárias.
+🔹 **[Sistema Veterinário](https://vladimirflima.github.io/clinicaveterinaria)** - Aplicação web desenvolvida em JavaScript para gestão de clínicas veterinárias.
 
-🔹 **[Calculadora iOS](#)** - Projeto desenvolvido com SwiftUI e UIViewController para aprimorar habilidades no ecossistema Apple.
+🔹 **[Calculadora iOS]([https://github.com/vladimirflima/calculadoraswift)** - Projeto desenvolvido com SwiftUI e UIViewController para aprimorar habilidades mobile no ecossistema Apple.
 
-🔹 **[Portfólio Pessoal](#)** - Meu espaço na web para compartilhar projetos e experiências.
+🔹 **[Tabela Jogos da Copa](https://vladimirflima.github.io/tabela-jogos-da-copa/)** - Projeto desenvolvido em JS, HTML e CSS, mostra a tabela com datas e horários da Copa do Mundo 2022.
 
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladimirflima)

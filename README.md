@@ -19,7 +19,7 @@ Atualmente, estou focado no desenvolvimento de projetos que colocam em prática 
 ## 📌 Projetos em destaque
 🔹 **[Sistema Veterinário](https://vladimirflima.github.io/clinicaveterinaria)** - Aplicação web desenvolvida em JavaScript para gestão de clínicas veterinárias.
 
-🔹 **[Calculadora iOS]([https://github.com/vladimirflima/calculadoraswift)** - Projeto desenvolvido com SwiftUI e UIViewController para aprimorar habilidades mobile no ecossistema Apple.
+🔹 **[Calculadora iOS](https://github.com/vladimirflima/calculadoraswift)** - Projeto desenvolvido com SwiftUI e UIViewController para aprimorar habilidades mobile no ecossistema Apple.
 
 🔹 **[Tabela Jogos da Copa](https://vladimirflima.github.io/tabela-jogos-da-copa/)** - Projeto desenvolvido em JS, HTML e CSS, mostra a tabela com datas e horários da Copa do Mundo 2022.
 

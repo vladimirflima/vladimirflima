@@ -1,18 +1,20 @@
 ### Olá 👋
 
-Sou formado em **Técnico em Programação de Jogos Digitais** e atualmente curso **Análise e Desenvolvimento de Sistemas**. Minha paixão pela tecnologia me levou a migrar da área de **Edição de Vídeos e Design** para o **Desenvolvimento Front-end**, onde encontro desafios e oportunidades para criar interfaces interativas e acessíveis.
+Sou formado em **Técnico em Programação de Jogos Digitais** e atualmente curso **Análise e Desenvolvimento de Sistemas**. Minha paixão pela tecnologia me levou a migrar da área de **Edição de Vídeos e Design** para o **Desenvolvimento**, onde encontro desafios e oportunidades para criar interfaces interativas e acessíveis.
 
-Atualmente, estou focado no desenvolvimento de projetos que colocam em prática minhas habilidades com **JavaScript, React e TypeScript**, além do uso de **Node.js**.
+Atualmente, estou focado no desenvolvimento de projetos que colocam em prática minhas habilidades com **JavaScript, React,js e TypeScript**, além do uso de **Node.js**.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas:** React.js, Vue
+- **Frameworks e Bibliotecas:** React.js
 - **Ferramentas:** Git, GitHub, Figma, Visual Studio Code, Sublime, XCode, IntelliJ
 - **Banco de Dados:** PostgreSQL
 - **Outros:** Flexbox, Grid, UX/UI
 
 ## 🌱 O que estou aprendendo?
-- **Back-end:** Node.js, Django
+- **Back-end:** Django
+- **Frameworks:** Node.js, Express, Vue.js
+- **Front-end:** PHP, Java
 - **Banco de dados:** MySQL
 - **Arquitetura:** Boas práticas e padrões de desenvolvimento
 
@@ -25,6 +27,6 @@ Atualmente, estou focado no desenvolvimento de projetos que colocam em prática 
 
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladimirflima)
-- 📧 vladimirflima@gmail.com
+- 📧 vladimirflima@outlook.com
 
-💡 Sempre em busca de novos desafios e aprendizados! 🚀
+💡 Em busca de novos desafios e aprendizados! 🚀
